@@ -1,2 +1,3 @@
 # Repositório-para-Decola-Tech
-Algumas atividades minhas de python
+
+Essa foi a minha primeira atividade básica de Python
